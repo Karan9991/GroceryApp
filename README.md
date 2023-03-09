@@ -1,11 +1,10 @@
 # GroceryApp
-GroceryApp
 
 With Grocery App you can buy all your household needs including – Grocery, Vegetables, Fruits, Household items, Personal care products etc.
 
 **Customer App Features:**
 
--Easy to Sign up & Sign in with Mobile Number Verification
+- Easy to Sign up & Sign in with Mobile Number Verification
 -Sign in with Mobile number/Email
 -App Home screen product and category managed by admin
 -Product Variations with All the type.
