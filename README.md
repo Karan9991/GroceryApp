@@ -1,6 +1,7 @@
 # GroceryApp
 
 With Grocery App you can buy all your household needs including – Grocery, Vegetables, Fruits, Household items, Personal care products etc.
+Delivery App: https://github.com/Karan9991/GroceryDeliveryApp
 
 **Customer App Features:**
 
